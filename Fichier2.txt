@@ -44,3 +44,28 @@ CLITANDRE
 AMINTE
 LUCRÈCE
 LISETTE
+
+
+// Modification Fichier2.txt : Ajout liste de villes
+Paris
+Marseille
+Lyon
+Toulouse
+Nice
+Nantes
+Montpellier
+Strasbourg
+Bordeaux
+Lille13
+Rennes
+Reims
+Le Havre
+Saint-Étienne
+Toulon
+Grenoble
+Dijon
+Angers
+Nîmes
+Villeurbanne
+Saint-Denis
+Le Mans
