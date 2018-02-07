@@ -16,3 +16,31 @@
     Postremo ad id indignitatis est ventum, ut cum
     Et quoniam apud eos ut in capite mundi morborum
 
+// Modification de Fichier2.txt: Ajout liste de personnages
+
+ARISTIONE
+ERIPHILE
+CLÉONICE
+CHORÈBE
+IPHICRATE
+TIMOCLÈS
+CLITIDAS
+SOSTRATE
+ANAXARQUE
+CLÉON
+UNE FAUSSE VÉNUS
+La NYMPHE de la vallée de Tempé
+TIRCIS
+LICASTE
+MÉNANDRE
+CALISTE
+DEUX SATYRES
+LA COMÉDIE
+LA MUSIQUE
+LE BALLET
+SGANARELLE
+LUCINDE
+CLITANDRE
+AMINTE
+LUCRÈCE
+LISETTE
