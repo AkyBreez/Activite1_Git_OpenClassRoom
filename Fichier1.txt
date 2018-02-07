@@ -22,3 +22,11 @@ Circa hos dies Lollianus primae lanuginis adulescens, Lampadi filius ex praefect
 convictus codicem noxiarum artium nondum per aetatem firmato consilio descripsisse, exulque mittendus, ut sperabatur, 
 patris inpulsu provocavit ad principem, et iussus ad eius comitatum duci, de fumo, ut aiunt, in flammam traditus 
 Phalangio Baeticae consulari cecidit funesti carnificis manu.
+
+
+// Première modification : traduction du dernier paragraphe de Lorem Ipsum en francais via Google Traduction
+
+En ce qui concerne ces derniers jours Lollianns du premier appel d'offres, un jeune homme, le fils par son procfecto Lampadi, la cause indéniable à Maximinus, qui regardait,
+chaque compte de l'âge des arts, n'a pas encore été reconnu coupable d'un code du conseil d'avoir décrit les choses blessantes, exulcet doit être envoyé, afin que l'on espérait que,
+Père Knocked a fait appel au gouverneur et aux ordres du comté, dirigée par la fumée car ils sont en flammes
+Consulaire Phalangio Andalousie est tombée la main du bourreau mortel.
